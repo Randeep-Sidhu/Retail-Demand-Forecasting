@@ -15,8 +15,8 @@ This project uses machine learning to predict weekly sales for retail stores (45
 3. Open `Retail_Demand_Forecasting.ipynb` in Jupyter/VS Code.
 
 ## 📈 Results
-- Top features: Lag_1, Lag_4, Dept_Encoded, Week, CPI.
-- Presentation: [Retail Demand Forecasting.pdf](Retail Demand Forecasting.pdf)
+- **Top Features**: Lag_1, Lag_4, Dept_Encoded, Week, CPI (indicating past sales, department, and economic factors drive predictions).
+- **Presentation**: [Retail Demand Forecasting.pdf](Retail Demand Forecasting.pdf)
 
 
 
