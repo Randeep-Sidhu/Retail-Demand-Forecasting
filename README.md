@@ -16,7 +16,7 @@ This project uses machine learning to predict weekly sales for retail stores (45
 
 ## 📈 Results
 - Top features: Lag_1, Lag_4, Dept_Encoded, Week, CPI.
-- Presentation: [presentation.pdf](presentation.pdf)
+- Presentation: [Retail Demand Forecasting.pdf](Retail Demand Forecasting.pdf)
 
 
 
